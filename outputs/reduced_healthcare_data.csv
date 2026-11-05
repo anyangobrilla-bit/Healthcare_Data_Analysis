@@ -1,0 +1,121 @@
+Clinic,Month,Month_Number,Season,Ailment,Medication,PC1,PC2
+Central Clinic,January,1,Dry Season,Malaria,Antimalarial Drugs,-0.45376353772786365,-0.8093307337266002
+Central Clinic,January,1,Dry Season,Respiratory Infection,Antibiotics,-3.3122364982581174,-0.14837421941442835
+Central Clinic,January,1,Dry Season,Diarrhoeal Disease,ORS,-2.802286193218192,0.031840314478316506
+Central Clinic,January,1,Dry Season,Typhoid,Typhoid Medication,1.109663278767908,0.5133260120861324
+Central Clinic,February,2,Dry Season,Malaria,Antimalarial Drugs,-2.4851144846244684,0.5532477604196191
+Central Clinic,February,2,Dry Season,Respiratory Infection,Antibiotics,-2.125194816028866,-0.4621773350887725
+Central Clinic,February,2,Dry Season,Diarrhoeal Disease,ORS,-1.7504398665441883,0.2793192195955143
+Central Clinic,February,2,Dry Season,Typhoid,Typhoid Medication,-1.138604991158213,-0.08172082697070832
+Central Clinic,March,3,Long Rains,Malaria,Antimalarial Drugs,2.8551590758115553,1.6578930402943008
+Central Clinic,March,3,Long Rains,Respiratory Infection,Antibiotics,-1.3120228862984162,0.910271830869843
+Central Clinic,March,3,Long Rains,Diarrhoeal Disease,ORS,4.449138993562464,2.094279339140207
+Central Clinic,March,3,Long Rains,Typhoid,Typhoid Medication,2.3152485919220838,-0.314478441826849
+Central Clinic,April,4,Long Rains,Malaria,Antimalarial Drugs,-0.12636999682559996,-0.9854780907647045
+Central Clinic,April,4,Long Rains,Respiratory Infection,Antibiotics,0.852473707784337,1.0632095358006337
+Central Clinic,April,4,Long Rains,Diarrhoeal Disease,ORS,-2.36559598124397,-0.40603005797120756
+Central Clinic,April,4,Long Rains,Typhoid,Typhoid Medication,-0.3075292794830008,-0.9033664734669186
+Central Clinic,May,5,Long Rains,Malaria,Antimalarial Drugs,-1.3970026992252085,1.1860350640189512
+Central Clinic,May,5,Long Rains,Respiratory Infection,Antibiotics,0.19274628132141775,0.6720101390386908
+Central Clinic,May,5,Long Rains,Diarrhoeal Disease,ORS,-2.0358430799446725,0.160254001171478
+Central Clinic,May,5,Long Rains,Typhoid,Typhoid Medication,2.0117846650452154,0.9497560625930648
+Central Clinic,June,6,Cool Season,Malaria,Antimalarial Drugs,0.10805621886374932,1.4693524029509868
+Central Clinic,June,6,Cool Season,Respiratory Infection,Antibiotics,1.608800127565122,-1.3237009782574432
+Central Clinic,June,6,Cool Season,Diarrhoeal Disease,ORS,-0.6582903109200623,1.514798393178888
+Central Clinic,June,6,Cool Season,Typhoid,Typhoid Medication,-1.9318386966345693,-0.4775316162401903
+Westlands Health Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,1.5054573393864163,1.7658827663656642
+Westlands Health Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,0.6883726798057164,-1.1244866680214833
+Westlands Health Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,-3.3903117622098695,-0.18191625211919998
+Westlands Health Centre,January,1,Dry Season,Typhoid,Typhoid Medication,-2.983395272839449,-0.20343149059420035
+Westlands Health Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,-2.854623526800855,-0.30342929155578485
+Westlands Health Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,-2.5970760787433598,0.9312139677795175
+Westlands Health Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,-2.8208298241431162,0.5458416527169535
+Westlands Health Centre,February,2,Dry Season,Typhoid,Typhoid Medication,-0.7220204682859571,0.3623945843022306
+Westlands Health Centre,March,3,Long Rains,Malaria,Antimalarial Drugs,1.0124735716768085,-1.192846041637946
+Westlands Health Centre,March,3,Long Rains,Respiratory Infection,Antibiotics,-0.23583124459433882,0.08270287835917617
+Westlands Health Centre,March,3,Long Rains,Diarrhoeal Disease,ORS,1.0226027764759482,-0.6296216602799442
+Westlands Health Centre,March,3,Long Rains,Typhoid,Typhoid Medication,3.287288153629268,1.4087476058517638
+Westlands Health Centre,April,4,Long Rains,Malaria,Antimalarial Drugs,-0.9378918402153973,0.8346866553656244
+Westlands Health Centre,April,4,Long Rains,Respiratory Infection,Antibiotics,0.029240699859548257,0.39048374077063247
+Westlands Health Centre,April,4,Long Rains,Diarrhoeal Disease,ORS,-0.8691486122405203,-0.8278452145431294
+Westlands Health Centre,April,4,Long Rains,Typhoid,Typhoid Medication,0.790764801902634,-1.0769044175790228
+Westlands Health Centre,May,5,Long Rains,Malaria,Antimalarial Drugs,1.8825120779894253,-1.3998756957075826
+Westlands Health Centre,May,5,Long Rains,Respiratory Infection,Antibiotics,1.0201865023090988,0.8061230742703726
+Westlands Health Centre,May,5,Long Rains,Diarrhoeal Disease,ORS,3.3076922819241834,-0.0951324448390795
+Westlands Health Centre,May,5,Long Rains,Typhoid,Typhoid Medication,2.752747185553555,1.5559255674858257
+Westlands Health Centre,June,6,Cool Season,Malaria,Antimalarial Drugs,-0.323236566532812,-0.9295936263298854
+Westlands Health Centre,June,6,Cool Season,Respiratory Infection,Antibiotics,1.1437050841847243,-1.1851792711593463
+Westlands Health Centre,June,6,Cool Season,Diarrhoeal Disease,ORS,-0.2374614293761808,-0.8122604284436138
+Westlands Health Centre,June,6,Cool Season,Typhoid,Typhoid Medication,2.2451252599145963,-1.3773666756098666
+Kasarani Clinic,January,1,Dry Season,Malaria,Antimalarial Drugs,-1.3348940379173306,0.30000226836125077
+Kasarani Clinic,January,1,Dry Season,Respiratory Infection,Antibiotics,2.3334533371709556,1.4541296794992356
+Kasarani Clinic,January,1,Dry Season,Diarrhoeal Disease,ORS,-1.1664322996162941,-0.05523086142499571
+Kasarani Clinic,January,1,Dry Season,Typhoid,Typhoid Medication,-0.6972907972872052,-0.7345339962706191
+Kasarani Clinic,February,2,Dry Season,Malaria,Antimalarial Drugs,-1.4141383153536204,-0.5309093395362484
+Kasarani Clinic,February,2,Dry Season,Respiratory Infection,Antibiotics,-1.2215311397355983,-0.44811695243168087
+Kasarani Clinic,February,2,Dry Season,Diarrhoeal Disease,ORS,-0.6151797411007409,-0.8156195242110416
+Kasarani Clinic,February,2,Dry Season,Typhoid,Typhoid Medication,-0.8690717969118947,-0.7083707599880816
+Kasarani Clinic,March,3,Long Rains,Malaria,Antimalarial Drugs,5.301835659339841,-2.092592023053573
+Kasarani Clinic,March,3,Long Rains,Respiratory Infection,Antibiotics,-3.1983265120033524,-0.19888616457390224
+Kasarani Clinic,March,3,Long Rains,Diarrhoeal Disease,ORS,1.8246589881881574,0.15610677007239973
+Kasarani Clinic,March,3,Long Rains,Typhoid,Typhoid Medication,-2.4793128005193195,-0.007798758969608438
+Kasarani Clinic,April,4,Long Rains,Malaria,Antimalarial Drugs,-1.5267827046341396,0.4908318577370156
+Kasarani Clinic,April,4,Long Rains,Respiratory Infection,Antibiotics,-2.375960777495782,-0.37357803120422883
+Kasarani Clinic,April,4,Long Rains,Diarrhoeal Disease,ORS,2.0678018917788203,0.1031907555614038
+Kasarani Clinic,April,4,Long Rains,Typhoid,Typhoid Medication,-1.8728932752796612,0.8876464215376468
+Kasarani Clinic,May,5,Long Rains,Malaria,Antimalarial Drugs,0.47313390000176014,-0.9785861645011522
+Kasarani Clinic,May,5,Long Rains,Respiratory Infection,Antibiotics,-1.821542454916099,1.199419673323478
+Kasarani Clinic,May,5,Long Rains,Diarrhoeal Disease,ORS,4.154062334397892,-2.0228475230819236
+Kasarani Clinic,May,5,Long Rains,Typhoid,Typhoid Medication,-2.14356702612561,-0.37216129600326076
+Kasarani Clinic,June,6,Cool Season,Malaria,Antimalarial Drugs,-2.9849877658915522,0.5363215996259433
+Kasarani Clinic,June,6,Cool Season,Respiratory Infection,Antibiotics,2.6715670272877965,-1.5545401220053345
+Kasarani Clinic,June,6,Cool Season,Diarrhoeal Disease,ORS,-0.8076903332290548,-0.7245522343945465
+Kasarani Clinic,June,6,Cool Season,Typhoid,Typhoid Medication,-0.23570620421972308,-0.8325255200853144
+Embakasi Medical Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,1.1590570182717708,1.6411182994031075
+Embakasi Medical Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,0.08642166121316731,-0.9478776021983166
+Embakasi Medical Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,1.2697834502914778,-0.0798458048068987
+Embakasi Medical Centre,January,1,Dry Season,Typhoid,Typhoid Medication,-1.1853318296249893,-0.6084368756069266
+Embakasi Medical Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,-0.07803076374791051,1.0991354729375244
+Embakasi Medical Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,-1.1900286708700931,0.9216703279468836
+Embakasi Medical Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,-0.7327783092302731,1.5602006317457626
+Embakasi Medical Centre,February,2,Dry Season,Typhoid,Typhoid Medication,0.030738587412097094,0.19419040425866188
+Embakasi Medical Centre,March,3,Long Rains,Malaria,Antimalarial Drugs,2.9493259827817964,1.6957815029170542
+Embakasi Medical Centre,March,3,Long Rains,Respiratory Infection,Antibiotics,-1.851098509635884,-0.5602327754838972
+Embakasi Medical Centre,March,3,Long Rains,Diarrhoeal Disease,ORS,-0.3241964674594312,-0.5162321036528046
+Embakasi Medical Centre,March,3,Long Rains,Typhoid,Typhoid Medication,0.2190882135333552,-1.1102863093882878
+Embakasi Medical Centre,April,4,Long Rains,Malaria,Antimalarial Drugs,-0.19037869182563402,0.7816629726131725
+Embakasi Medical Centre,April,4,Long Rains,Respiratory Infection,Antibiotics,-1.6381885219561727,0.42293204299880366
+Embakasi Medical Centre,April,4,Long Rains,Diarrhoeal Disease,ORS,1.6482182929270965,-0.520184163188374
+Embakasi Medical Centre,April,4,Long Rains,Typhoid,Typhoid Medication,-1.0826321668880188,-0.7022098026644991
+Embakasi Medical Centre,May,5,Long Rains,Malaria,Antimalarial Drugs,4.187401709889726,-0.8886976558599122
+Embakasi Medical Centre,May,5,Long Rains,Respiratory Infection,Antibiotics,-1.8118961675654996,0.8933456700761672
+Embakasi Medical Centre,May,5,Long Rains,Diarrhoeal Disease,ORS,1.8624223344659618,0.3451218320425636
+Embakasi Medical Centre,May,5,Long Rains,Typhoid,Typhoid Medication,0.5480439460103882,0.5888472710099215
+Embakasi Medical Centre,June,6,Cool Season,Malaria,Antimalarial Drugs,-1.204365088732125,0.8970588063872014
+Embakasi Medical Centre,June,6,Cool Season,Respiratory Infection,Antibiotics,0.5318200057626056,-0.5067558022228207
+Embakasi Medical Centre,June,6,Cool Season,Diarrhoeal Disease,ORS,1.4892401098723052,-1.1905130352278817
+Embakasi Medical Centre,June,6,Cool Season,Typhoid,Typhoid Medication,1.0015834335031997,-1.0862966375091745
+Ruiru Health Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,1.809693934180949,1.8925256773142514
+Ruiru Health Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,-2.056959006407129,-0.47028065297881483
+Ruiru Health Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,-0.8578614733941,-0.6651097780899832
+Ruiru Health Centre,January,1,Dry Season,Typhoid,Typhoid Medication,-1.7748817650639694,1.1805074003023162
+Ruiru Health Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,1.1880083916299737,-1.2292035297320625
+Ruiru Health Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,1.4445568151619632,1.9340431947482066
+Ruiru Health Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,-4.042049564998786,0.03225454706354473
+Ruiru Health Centre,February,2,Dry Season,Typhoid,Typhoid Medication,-1.0448972774951217,0.5758933346712182
+Ruiru Health Centre,March,3,Long Rains,Malaria,Antimalarial Drugs,4.242500550009031,-0.49581156485322714
+Ruiru Health Centre,March,3,Long Rains,Respiratory Infection,Antibiotics,2.562912183186153,1.1045957982515093
+Ruiru Health Centre,March,3,Long Rains,Diarrhoeal Disease,ORS,0.19934513424883152,-1.0218859016060604
+Ruiru Health Centre,March,3,Long Rains,Typhoid,Typhoid Medication,-1.587586645368885,0.8328519630406205
+Ruiru Health Centre,April,4,Long Rains,Malaria,Antimalarial Drugs,-2.6149910735231074,-0.3158151227833794
+Ruiru Health Centre,April,4,Long Rains,Respiratory Infection,Antibiotics,-1.2364894830091353,-0.572490773550633
+Ruiru Health Centre,April,4,Long Rains,Diarrhoeal Disease,ORS,1.0782573933921107,-0.6826015913713694
+Ruiru Health Centre,April,4,Long Rains,Typhoid,Typhoid Medication,-1.0606726911497335,-0.7132815704783646
+Ruiru Health Centre,May,5,Long Rains,Malaria,Antimalarial Drugs,0.24639018006963956,-1.0626788975722077
+Ruiru Health Centre,May,5,Long Rains,Respiratory Infection,Antibiotics,0.6167674058241829,-1.1280698212648472
+Ruiru Health Centre,May,5,Long Rains,Diarrhoeal Disease,ORS,1.6895364919812272,-0.5977756158394816
+Ruiru Health Centre,May,5,Long Rains,Typhoid,Typhoid Medication,3.346135013504314,1.8827465360793023
+Ruiru Health Centre,June,6,Cool Season,Malaria,Antimalarial Drugs,-1.249147491043335,-0.7368418413070636
+Ruiru Health Centre,June,6,Cool Season,Respiratory Infection,Antibiotics,3.9884066384946357,0.40719114325917577
+Ruiru Health Centre,June,6,Cool Season,Diarrhoeal Disease,ORS,1.566454447100578,1.7715820149041845
+Ruiru Health Centre,June,6,Cool Season,Typhoid,Typhoid Medication,1.773867767204033,-1.4101590254732106

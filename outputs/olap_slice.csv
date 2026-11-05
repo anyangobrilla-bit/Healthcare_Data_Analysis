@@ -1,0 +1,41 @@
+Clinic,Month,Month_Number,Season,Ailment,Medication,Patient_Attendance,Medication_Demand,Medication_Supplied,Medication_Dispensed,Closing_Stock
+Central Clinic,January,1,Dry Season,Malaria,Antimalarial Drugs,70,78,72,72,0
+Central Clinic,January,1,Dry Season,Respiratory Infection,Antibiotics,42,43,39,39,0
+Central Clinic,January,1,Dry Season,Diarrhoeal Disease,ORS,52,43,45,43,2
+Central Clinic,January,1,Dry Season,Typhoid,Typhoid Medication,82,85,96,85,11
+Central Clinic,February,2,Dry Season,Malaria,Antimalarial Drugs,54,44,50,44,6
+Central Clinic,February,2,Dry Season,Respiratory Infection,Antibiotics,62,54,50,50,0
+Central Clinic,February,2,Dry Season,Diarrhoeal Disease,ORS,54,56,61,56,5
+Central Clinic,February,2,Dry Season,Typhoid,Typhoid Medication,74,59,63,59,4
+Westlands Health Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,82,84,104,84,20
+Westlands Health Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,89,90,82,82,0
+Westlands Health Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,48,41,35,35,0
+Westlands Health Centre,January,1,Dry Season,Typhoid,Typhoid Medication,43,47,44,44,0
+Westlands Health Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,56,45,41,41,0
+Westlands Health Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,42,45,53,45,8
+Westlands Health Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,39,45,50,45,5
+Westlands Health Centre,February,2,Dry Season,Typhoid,Typhoid Medication,60,68,75,68,7
+Kasarani Clinic,January,1,Dry Season,Malaria,Antimalarial Drugs,64,58,64,58,6
+Kasarani Clinic,January,1,Dry Season,Respiratory Infection,Antibiotics,86,96,115,96,19
+Kasarani Clinic,January,1,Dry Season,Diarrhoeal Disease,ORS,70,60,64,60,4
+Kasarani Clinic,January,1,Dry Season,Typhoid,Typhoid Medication,68,73,70,70,0
+Kasarani Clinic,February,2,Dry Season,Malaria,Antimalarial Drugs,56,65,64,64,0
+Kasarani Clinic,February,2,Dry Season,Respiratory Infection,Antibiotics,63,64,65,64,1
+Kasarani Clinic,February,2,Dry Season,Diarrhoeal Disease,ORS,79,71,67,67,0
+Kasarani Clinic,February,2,Dry Season,Typhoid,Typhoid Medication,70,69,67,67,0
+Embakasi Medical Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,89,77,96,77,19
+Embakasi Medical Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,81,81,77,77,0
+Embakasi Medical Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,78,92,99,92,7
+Embakasi Medical Centre,January,1,Dry Season,Typhoid,Typhoid Medication,63,66,65,65,0
+Embakasi Medical Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,66,71,84,71,13
+Embakasi Medical Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,53,61,71,61,10
+Embakasi Medical Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,56,63,78,63,15
+Embakasi Medical Centre,February,2,Dry Season,Typhoid,Typhoid Medication,67,77,84,77,7
+Ruiru Health Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,76,90,111,90,21
+Ruiru Health Centre,January,1,Dry Season,Respiratory Infection,Antibiotics,64,53,51,51,0
+Ruiru Health Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,63,71,70,70,0
+Ruiru Health Centre,January,1,Dry Season,Typhoid,Typhoid Medication,51,52,63,52,11
+Ruiru Health Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,87,101,89,89,0
+Ruiru Health Centre,February,2,Dry Season,Respiratory Infection,Antibiotics,80,83,104,83,21
+Ruiru Health Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,36,32,31,31,0
+Ruiru Health Centre,February,2,Dry Season,Typhoid,Typhoid Medication,58,63,71,63,8

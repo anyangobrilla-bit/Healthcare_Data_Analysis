@@ -1,0 +1,25 @@
+Clinic,Month,Month_Number,Season,Ailment,Medication,Patient_Attendance,Medication_Demand,Medication_Supplied,Medication_Dispensed,Closing_Stock
+Central Clinic,January,1,Dry Season,Malaria,Antimalarial Drugs,70,78,72,72,0
+Central Clinic,January,1,Dry Season,Diarrhoeal Disease,ORS,52,43,45,43,2
+Central Clinic,February,2,Dry Season,Malaria,Antimalarial Drugs,54,44,50,44,6
+Central Clinic,February,2,Dry Season,Diarrhoeal Disease,ORS,54,56,61,56,5
+Central Clinic,March,3,Long Rains,Malaria,Antimalarial Drugs,113,92,114,92,22
+Central Clinic,March,3,Long Rains,Diarrhoeal Disease,ORS,117,111,138,111,27
+Central Clinic,April,4,Long Rains,Malaria,Antimalarial Drugs,84,82,70,70,0
+Central Clinic,April,4,Long Rains,Diarrhoeal Disease,ORS,62,49,47,47,0
+Central Clinic,May,5,Long Rains,Malaria,Antimalarial Drugs,65,52,64,52,12
+Central Clinic,May,5,Long Rains,Diarrhoeal Disease,ORS,58,51,55,51,4
+Central Clinic,June,6,Cool Season,Malaria,Antimalarial Drugs,73,69,85,69,16
+Central Clinic,June,6,Cool Season,Diarrhoeal Disease,ORS,62,62,77,62,15
+Embakasi Medical Centre,January,1,Dry Season,Malaria,Antimalarial Drugs,89,77,96,77,19
+Embakasi Medical Centre,January,1,Dry Season,Diarrhoeal Disease,ORS,78,92,99,92,7
+Embakasi Medical Centre,February,2,Dry Season,Malaria,Antimalarial Drugs,66,71,84,71,13
+Embakasi Medical Centre,February,2,Dry Season,Diarrhoeal Disease,ORS,56,63,78,63,15
+Embakasi Medical Centre,March,3,Long Rains,Malaria,Antimalarial Drugs,103,97,119,97,22
+Embakasi Medical Centre,March,3,Long Rains,Diarrhoeal Disease,ORS,74,73,75,73,2
+Embakasi Medical Centre,April,4,Long Rains,Malaria,Antimalarial Drugs,74,68,79,68,11
+Embakasi Medical Centre,April,4,Long Rains,Diarrhoeal Disease,ORS,93,94,99,94,5
+Embakasi Medical Centre,May,5,Long Rains,Malaria,Antimalarial Drugs,107,127,133,127,6
+Embakasi Medical Centre,May,5,Long Rains,Diarrhoeal Disease,ORS,89,94,105,94,11
+Embakasi Medical Centre,June,6,Cool Season,Malaria,Antimalarial Drugs,58,59,69,59,10
+Embakasi Medical Centre,June,6,Cool Season,Diarrhoeal Disease,ORS,85,99,98,98,0

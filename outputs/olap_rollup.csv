@@ -1,0 +1,16 @@
+Clinic,Season,Patient_Attendance,Medication_Demand,Medication_Supplied,Medication_Dispensed,Closing_Stock
+Central Clinic,Cool Season,286,294,310,279,31
+Central Clinic,Dry Season,490,462,476,448,28
+Central Clinic,Long Rains,986,916,1017,894,123
+Embakasi Medical Centre,Cool Season,295,338,348,335,13
+Embakasi Medical Centre,Dry Season,553,588,654,583,71
+Embakasi Medical Centre,Long Rains,967,944,1006,923,83
+Kasarani Clinic,Cool Season,284,311,296,291,5
+Kasarani Clinic,Dry Season,556,556,576,546,30
+Kasarani Clinic,Long Rains,890,916,927,878,49
+Ruiru Health Centre,Cool Season,374,371,383,348,35
+Ruiru Health Centre,Dry Season,515,545,590,529,61
+Ruiru Health Centre,Long Rains,1016,991,1027,960,67
+Westlands Health Centre,Cool Season,334,361,341,341,0
+Westlands Health Centre,Dry Season,459,465,484,444,40
+Westlands Health Centre,Long Rains,1045,1039,1111,1019,92
